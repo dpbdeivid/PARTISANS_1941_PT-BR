@@ -34,5 +34,5 @@ Glossário
 | Long burst | Rajada longa | burst = disparo em rajada (pesquisar fogo seletivo) |
 | Buckshot | Chumbo grosso | Melhor tradução que achei |
 | Machine Gunner | Atirador de metralhadora | (http://www.cml.eb.mil.br/ultimas-noticias/2151-metralhadora-automatizada.html) |
-| Log (madeira  - desambiguação) | tora | tora ou lenha, ver conforme contexto (ex. logging site pode ser serraria) |
+| Log (madeira  - desambiguação) | tora | tora ou lenha, ver conforme contexto (ex. logging site pode ser área de extração da madeira) |
 | Incoming! (exclamação) | Cuidado! | Não sei de equivalente em pt-br, é um aviso para algo vindo em sua direção (uma granada, uma bateria de artilharia, um ataque). Cuidado seria o aviso mais efetivo, mas dependendo do contexto, pode servir algo como "Se aproximando", ou uma combinação com as situações acima  |
